@@ -1,5 +1,8 @@
-CS654A - Assignment 3
-Prithvi Sharma
+Performance Statistics for a web application on tweaking with several server and load balancer parameters
+=================================================
+
+Done as Assignment 3 for CS654A
+
 
 There are 2 VMs created which act as processing servers.
 On these 2 VMs, PHP5, Apache2 and Drupal 7 are to be installed.
